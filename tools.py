@@ -69,4 +69,3 @@ class Sprite(sprite.Sprite):
 					return True
 					break
 			return n
-			
