@@ -21,4 +21,4 @@ To Use Run Project With this file
   ![](./images/bg.png)
 
 
-<img src="./images/gui/left.png"/>
+<img style="border-radius: 20px;" src="./images/gui/left.png"/>
