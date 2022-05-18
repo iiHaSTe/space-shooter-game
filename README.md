@@ -21,4 +21,11 @@ To Use Run Project With this file
   ![](./images/bg.png)
 
 
-<img style="border-radius: 20px;" src="./images/gui/left.png"/>
+<img style="border-radius: 10px;" src="./images/gui/left.png"/>
+<img style="border-radius: 10px;" src="./images/gui/right.png"/>
+<img style="border-radius: 10px;" src="./images/gui/shoot.png"/>
+<img style="border-radius: 10px;" src="./images/player/player.png"/>
+<img style="border-radius: 10px;" src="./images/player/projectile.png"/>
+<img style="border-radius: 10px;" src="./images/enimy/enimy.png"/>
+<img style="border-radius: 10px;" src="./images/enimy/rock.png"/>
+<img style="border-radius: 10px;" src="./images/bg.png"/>
